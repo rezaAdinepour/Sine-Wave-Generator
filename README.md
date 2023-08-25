@@ -3,4 +3,4 @@ Design and Implementation of Sinusoidal Wave Generator Using [STM32-F446RE Nucle
 
 ## STM32-F446RE Nucleo Board
 I use this development board in this project
-![image](Images/1.webp)
+![image](Images/1.jpg)
