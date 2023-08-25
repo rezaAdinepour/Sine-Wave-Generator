@@ -9,3 +9,7 @@ I use this development board in this project
 You can download the PCB files from [here](PCB/)
 ![image](Images/2.png)
 ![image](Images/3.png)
+
+## Implement
+The PCB was made as follows:
+![image](Images/4.JPG)
